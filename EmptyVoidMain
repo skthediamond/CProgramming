@@ -4,4 +4,8 @@ void main()
 {
 
 clrscr();
+void payfees()
+{
+}
+
 }
